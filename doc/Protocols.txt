@@ -1,0 +1,23 @@
+FILE FORMAT (CSL files) ***DRAFT***
+
+Each line looks like this:
+
+tid;tphone;tsend;tgps;lng;lat;height;bat
+
+tid - tracker id
+tphone - phone number of tracker
+tsend - timestamp the data were send
+tgps - timestamp the gps position is aquired
+lng - longitude in micro degree
+lat - lattitude in micro degree
+height - height in meter
+bat - batterie charge
+
+
+DATABASE
+
+tba.
+
+
+-- 
+2011-06-02 jes
