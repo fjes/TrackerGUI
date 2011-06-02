@@ -1,0 +1,12 @@
+This project display's waypoints of trackers on a nice map.
+
+The directory structure is as follows:
+
++-README  // this file
+|-doc     // directory containing the documentation
+|-inc     // include directory for 3rd party libraries
+|-lib     // directory containing 3rd pary libraries
+`-src     // source code of the gui itself
+
+-- 
+2011-06-02 Frank Jeschke <frank@fjes.de>
