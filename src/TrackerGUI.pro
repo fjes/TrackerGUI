@@ -1,6 +1,8 @@
 CONFIG += qt debug
-SOURCES += main.cpp
-HEADERS = 
+SOURCES += main.cpp \
+    mainwindow.cpp
+HEADERS = \
+    mainwindow.h
 TARGET = trackergui
 
 !exists( main.cpp ) {
