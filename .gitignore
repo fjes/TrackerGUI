@@ -1,0 +1,7 @@
+*.o
+*.i
+*.plist
+*.pro.user
+*~
+*.swp
+TrackerGUI-build-desktop/
